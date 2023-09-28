@@ -23,7 +23,7 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 
 	"github.com/deepmap/oapi-codegen/pkg/codegen"
 	"github.com/deepmap/oapi-codegen/pkg/util"
